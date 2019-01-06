@@ -1,0 +1,14 @@
+{
+  "name": "scalefog-api",
+  "version": "1.0.0",
+  "description": "A library to interact with Scalefog",
+  "main": "lib/Scalefog.js",
+  "homepage": "http://scalefog.com",
+  "repository": "git://github.com/scalefog/scalefog-api.git",
+  "author": "Kenneth <kenneth@scalefog.com>",
+  "license": "ISC",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
